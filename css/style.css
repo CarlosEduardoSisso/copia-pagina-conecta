@@ -16,7 +16,13 @@ body {
 
 /* Cabeçalho */
 header {
+    height: 400px;
+    width: 100%;
     background: #0073e6;
+    background-image: url("../img/aperto-de-maos.jpg");
+    background-size: center;
+    background-repeat: no-repeat;
+    ;
     color: #fff;
     padding: 20px 0;
     text-align: center;
